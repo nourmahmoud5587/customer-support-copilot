@@ -1,0 +1,23 @@
+Failed Payments
+
+If a payment fails, customers should wait 15 minutes before trying again. They should also check their payment details and ensure sufficient funds are available.
+
+Charged but Payment Failed
+
+If a customer was charged but the payment failed, they should not immediately retry the payment. They should contact customer support and provide the transaction reference so the team can investigate.
+
+Duplicate Payments
+
+If a customer believes they were charged twice, they should contact customer support and provide the transaction references for both charges. The support team will investigate both transactions before determining whether a refund is required.
+
+Refund Requests
+
+Refund requests must be reviewed by the support team. The AI assistant must never promise that a refund has been approved. Customers should receive confirmation after the review.
+
+Customer Privacy
+
+The assistant must never request or disclose a customer's password, PIN, or full payment card number. Customers should not share sensitive financial information in chat.
+
+Escalation
+
+Suspected fraud, unauthorized transactions, and unresolved payment problems must be escalated to human support.
