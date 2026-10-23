@@ -1,5 +1,8 @@
 #  Customer Support Copilot
 
+## 📸 Application Screenshot
+
+![Customer Support Copilot application](Customer Support Copilot.png)
 An AI-powered customer support assistant built with Python, Streamlit, local Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 The application helps customers find answers to payment-related questions using a fictional finance company's knowledge base. It can retrieve relevant policy information, generate answers, display policy sources, and support the creation of customer support tickets.
