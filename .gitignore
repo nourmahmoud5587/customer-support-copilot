@@ -1,0 +1,19 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local database and generated data
+chroma_db/
+tickets.json
+
+# Secrets and local configuration
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+
+# Local backup
+agent_assistant_backup.py
